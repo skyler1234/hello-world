@@ -1,2 +1,5 @@
 # hello-world
-hi
+hi world
+hello cosmos
+ni hao universe
+bonjour earth
